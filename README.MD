@@ -1,8 +1,8 @@
 # Site acessível sobre Tropicália
 # Sobre
-Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
+feito pelo roger cristiano.
 ## Recursos de acessibilidade
-- Atributos aria
+- Atributos 
 - alt
 - tab-index
 - menu de acessibilidade
