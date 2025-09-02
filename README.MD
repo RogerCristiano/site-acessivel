@@ -1,8 +1,8 @@
-# Site acessível sobre Tropicália
+# Site acessível sobre arte moderna
 # Sobre
-Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
+feito pelo Roger Cristiano
 ## Recursos de acessibilidade
-- Atributos aria
+- Atributos
 - alt
 - tab-index
 - menu de acessibilidade
