@@ -1,4 +1,4 @@
-# Site acessível sobre Tropicália
+# Site acessível sobre arte moderna
 # Sobre
 Feito por Roger Cristiano
 ## Recursos de acessibilidade
